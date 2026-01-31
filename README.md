@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Priyansh-Debugging/Priyansh-Debugging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI/ML student**.  
+I am pursuing the path to become an **AI Architect**.
 
-Here are some ideas to get you started:
+My main platform is **VS CODE** and I have some experience with **PYCHARM**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of projects are going to be around various course codes and some IoT projects
+
+Current/Developing Skills:
+- Python  
+- Prompt Engineering  
+- C / C++  
+
+Hobbies:
+- IoT tinkering
+- Microcontrollers (ESP32, ARDUINO, etc.)
+- and yeah anime
+
+CURRENT PROJECT COUNT:- 1
