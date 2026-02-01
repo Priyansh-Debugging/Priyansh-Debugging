@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I am an **AI/ML student**.  
+I am **Priyansh**, an **AI/ML student**.  
 I am pursuing the path to become an **AI Architect**.
 
 My main platform is **VS CODE** and I have some experience with **PYCHARM**.
