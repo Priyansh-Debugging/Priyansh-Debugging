@@ -17,4 +17,4 @@ Most of projects are going to be around various course codes and some IoT projec
 - Microcontrollers (ESP32, ARDUINO, etc.)
 - and yeah anime
 
-**CURRENT PROJECT COUNT**:- 1
+**CURRENT PROJECT COUNT**:- 2
